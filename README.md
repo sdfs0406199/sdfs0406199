@@ -27,7 +27,7 @@
 | Projeto | Descrição | Stack Principal |
 | --- | --- | --- |
 | [Designer Profissional](https://github.com/sdfs0406199/exemplo2-turmaDP-GITHUB.git) | Markdown |![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat)
-| [Avaliação FRONTEND](https://github.com/sdfs0406199/Aula03---Desenvolvimento-Front-End.git) | Avaliação e Projetos HTML/CSS | ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) | ![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=flat)
+| [Avaliação FRONTEND](https://github.com/sdfs0406199/Aula03---Desenvolvimento-Front-End.git) | Avaliação e Projetos HTML/CSS | ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) ![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=flat)
 
 ## Como falar Comigo
 - [LinkedIn](https://www.linkedin.com/in/sidney-ferreira-1b1b24194)
